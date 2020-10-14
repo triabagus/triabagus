@@ -2,7 +2,8 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FF008A) 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FF008A)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF008A)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF008A) 
+![](https://img.shields.io/badge/Sass?style=flat&logo=sass&logoColor=white&color=FF008A)
 ## &#x1f4c8; GitHub Stats
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=triabagus&include_all_commits=true&show_icons=true" alt="Triabagus GitHub Stats"> 
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=triabagus&layout=compact">
