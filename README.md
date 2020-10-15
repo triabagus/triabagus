@@ -1,4 +1,5 @@
 ## Hi, I'm Tria Bagus ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm a Web Developer and have been in this field for more than 4 years. Regarding web developers, i have participated in several training and competitions in the same field. I also contribute with several organization and communities. 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FF008A) 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FF008A)
