@@ -3,8 +3,14 @@ I'm a Web Developer and have been in this field for more than 4 years. Regarding
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FF008A) 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FF008A)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF008A)  
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF008A)
 ![](https://img.shields.io/badge/Code-Php-informational?&style=flat&logo=php&logoColor=white&color=FF008A)
+![](https://img.shields.io/badge/Code-Css-informational?&style=flat&logo=css&logoColor=white&color=FF008A)
+![](https://img.shields.io/badge/Code-Sass-informational?&style=flat&logo=sass&logoColor=white&color=FF008A)
+![](https://img.shields.io/badge/Code-Wordpress-informational?&style=flat&logo=wordpress&logoColor=white&color=FF008A)
+![](https://img.shields.io/badge/Code-Laravel-informational?&style=flat&logo=laravel&logoColor=white&color=FF008A)
+![](https://img.shields.io/badge/Code-React-informational?&style=flat&logo=react&logoColor=white&color=FF008A)
+![](https://img.shields.io/badge/Tools-Mysql-informational?&style=flat&logo=mysql&logoColor=white&color=FF008A)
 ## &#x1f4c8; GitHub Stats
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=triabagus&include_all_commits=true&show_icons=true" alt="Triabagus GitHub Stats"> 
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=triabagus&layout=compact">
