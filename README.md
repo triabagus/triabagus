@@ -4,7 +4,7 @@ I'm a Web Developer and have been in this field for more than 4 years. Regarding
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FF008A) 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FF008A)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF008A)  
-![](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white&color=FF008A)
+![](https://img.shields.io/badge/Code-Php-informational?&style=flat&logo=php&logoColor=white&color=FF008A)
 ## &#x1f4c8; GitHub Stats
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=triabagus&include_all_commits=true&show_icons=true" alt="Triabagus GitHub Stats"> 
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=triabagus&layout=compact">
