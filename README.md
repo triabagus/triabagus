@@ -12,7 +12,7 @@ I'm a Web Developer and have been in this field for more than 4 years. Regarding
 ![](https://img.shields.io/badge/Code-Laravel-informational?&style=flat&logo=laravel&logoColor=white&color=FF008A)
 ![](https://img.shields.io/badge/Code-React-informational?&style=flat&logo=react&logoColor=white&color=FF008A)
 ![](https://img.shields.io/badge/Tools-Mysql-informational?&style=flat&logo=mysql&logoColor=white&color=FF008A)
-![](https://img.shields.io/badge/Code-Git-informational?&style=flat&logo=git&logoColor=white&color=FF008A)
+![](https://img.shields.io/badge/Tools-Git-informational?&style=flat&logo=git&logoColor=white&color=FF008A)
 ## &#x1f4c8; GitHub Stats
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=triabagus&include_all_commits=true&show_icons=true" alt="Triabagus GitHub Stats"> 
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=triabagus&layout=compact">
