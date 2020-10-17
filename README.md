@@ -26,10 +26,9 @@ I'm a Web Developer and have been in this field for more than 4 years. Regarding
 ![](https://img.shields.io/badge/Tools-Git-informational?&style=flat&logo=git&logoColor=white&color=FF008A)
 ## &#x1f4c8; GitHub Stats 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=triabagus&include_all_commits=true&show_icons=true&line_height=27&count_private=true&title_color=f5558a&text_color=ffffff&icon_color=a77df9&bg_color=000000" alt="Triabagus GitHub Stats">  
-<img align='left' src="https://github-readme-stats.vercel.app/api/wakatime?username=triabagus&title_color=f5558a&text_color=ffffff&icon_color=a77df9&bg_color=000000" alt="Triabagus Wakatime">
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=triabagus&hide=java,tsql&layout=compact&title_color=f5558a&text_color=ffffff&icon_color=a77df9&bg_color=000000" alt="Triabagus GitHub Top Lang">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=triabagus&hide=java,tsql&layout=compact&title_color=f5558a&text_color=ffffff&icon_color=a77df9&bg_color=000000" alt="Triabagus GitHub Top Lang"> 
+<img align='left' src="https://github-readme-stats.vercel.app/api/wakatime?username=triabagus&title_color=f5558a&text_color=ffffff&icon_color=a77df9&bg_color=000000" alt="Tria Bagus Wakatime Stats"> 
  
-
 <!--
 **triabagus/triabagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
