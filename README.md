@@ -1,13 +1,11 @@
 ## Hi, I'm Tria Bagus ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a Web Developer and have been in this field for more than 4 years. Regarding web developers, i have participated in several training and competitions in the same field. I also contribute with several organization and communities. 
 
-- 🔭 I’m currently working on Fastwork Technologies Co., Ltd.
-- 🌱 I’m currently learning PHP, JAVASCRIPT, MYSQL, LARAVEL, WORDPRESS, REACTJS 
-- 👯 I’m looking to collaborate on Qodr Andalus
+- 🔭 I’m currently working on cmlabs.co (PT CMLABS INDONESIA DIGITAL)
+- 🌱 I’m currently learning PHP, JAVASCRIPT, MYSQL, LARAVEL, WORDPRESS
 - 🤔 I’m looking for help with web developer
 - 💬 Ask me about coding firts and enjoy 
 - 📫 How to reach me: triatop9@gmail.com
-- 😄 Pronouns: Top-x
 - ⚡ Fun fact: Coding, Football, Game 
 
 ## 🔧 Technologies & Tools
