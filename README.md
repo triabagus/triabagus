@@ -3,7 +3,7 @@
 I'm a Web Developer and have been in this field for more than 5 years. Regarding web developers, i have participated in several training and competitions in the same field. I also contribute with several organization and communities. 
 
 - 🔭 I’m currently working on cmlabs.co (PT CMLABS INDONESIA DIGITAL)
-- 🌱 I’m currently learning PHP, JAVASCRIPT, MYSQL, LARAVEL, WORDPRESS
+- 🌱 I’m currently learning PHP, Javascript, Mysql, Laravel, Wordpress
 - 🤔 I’m looking for help with web developer
 - 💬 Ask me about coding firts and enjoy 
 - 📫 How to reach me: triatop9@gmail.com
