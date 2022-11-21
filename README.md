@@ -3,7 +3,7 @@
 I'm a Web Developer and have been in this field for more than 5 years. Regarding web developers, i have participated in several training and competitions in the same field. I also contribute with several organization and communities. 
 
 - 🔭 I’m currently working on cmlabs.co (PT CMLABS INDONESIA DIGITAL)
-- 🌱 I’m currently learning PHP, Javascript, Mysql, Laravel, Wordpress
+- 🌱 I’m currently learning PHP, Javascript, Mysql, Wordpress
 - 🤔 I’m looking for help with web developer
 - 💬 Ask me about coding firts and enjoy 
 - 📫 How to reach me: triatop9@gmail.com
@@ -17,7 +17,6 @@ I'm a Web Developer and have been in this field for more than 5 years. Regarding
 ![](https://img.shields.io/badge/Code-Css3-informational?&style=flat&logo=css3&logoColor=white&color=57675c)
 ![](https://img.shields.io/badge/Code-Sass-informational?&style=flat&logo=sass&logoColor=white&color=57675c)
 ![](https://img.shields.io/badge/Code-Wordpress-informational?&style=flat&logo=wordpress&logoColor=white&color=57675c)
-![](https://img.shields.io/badge/Code-Laravel-informational?&style=flat&logo=laravel&logoColor=white&color=57675c)
 ![](https://img.shields.io/badge/Tools-Mysql-informational?&style=flat&logo=mysql&logoColor=white&color=57675c)
 ![](https://img.shields.io/badge/Tools-Git-informational?&style=flat&logo=git&logoColor=white&color=57675c)
 ## &#x1f4c8; GitHub Stats 
