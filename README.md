@@ -21,7 +21,7 @@ I'm a Web Developer and have been in this field for more than 5 years. Regarding
 ![](https://img.shields.io/badge/Tools-Git-informational?&style=flat&logo=git&logoColor=white&color=57675c)
 ## &#x1f4c8; GitHub Stats 
 ![Triabagus GitHub stats](https://github-readme-stats.vercel.app/api?username=triabagus&show_icons=true&theme=radical&title_color=8da99b&text_color=ffffff&icon_color=8da99b&bg_color=000000)
-[![Tria Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triabagus&title_color=8da99b&text_color=ffffff&icon_color=8da99b&bg_color=000000)](https://github.com/triabagus/github-readme-stats)
+[![Tria Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triabagus&hide=tsql&title_color=8da99b&text_color=ffffff&icon_color=8da99b&bg_color=000000)](https://github.com/triabagus/github-readme-stats)
 <img align='left' src="https://github-readme-stats.vercel.app/api/wakatime?username=triabagus&title_color=8da99b&text_color=ffffff&icon_color=a77df9&bg_color=000000" alt="Tria Bagus Wakatime Stats" style="padding-bottom:20px;"> 
  
 <!--
