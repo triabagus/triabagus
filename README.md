@@ -20,8 +20,10 @@ I'm a Web Developer and have been in this field for more than 5 years. Regarding
 ![](https://img.shields.io/badge/Tools-Mysql-informational?&style=flat&logo=mysql&logoColor=white&color=57675c)
 ![](https://img.shields.io/badge/Tools-Git-informational?&style=flat&logo=git&logoColor=white&color=57675c)
 ## &#x1f4c8; GitHub Stats 
-<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=triabagus&theme=radical&show_icons=true&title_color=8da99b&text_color=ffffff&icon_color=8da99b&bg_color=000000" alt="triabagus" />
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=triabagus&theme=radical&hide_border=true" />
+<p align="center">
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=triabagus&theme=radical&show_icons=true&title_color=8da99b&text_color=ffffff&icon_color=8da99b&bg_color=000000" alt="triabagus" width="400" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=triabagus&theme=radical&hide_border=true&title_color=8da99b&text_color=ffffff&icon_color=8da99b&bg_color=000000" alt="triabagus" width="400" />
+</p>
 <!--
 **triabagus/triabagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
