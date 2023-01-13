@@ -22,7 +22,7 @@ I'm a Web Developer and have been in this field for more than 5 years. Regarding
 ## &#x1f4c8; GitHub Stats 
 <p align="center">
 	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=triabagus&theme=radical&show_icons=true&title_color=8da99b&text_color=ffffff&icon_color=8da99b&bg_color=000000" alt="triabagus" width="400" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=triabagus&theme=radical&hide_border=true&title_color=8da99b&text_color=ffffff&icon_color=8da99b&bg_color=000000" alt="triabagus" width="400" />
+	[![GitHub Streak](https://streak-stats.demolab.com?user=triabagus&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&border=DDDDDD&stroke=FFFFFF&ring=8DA99B&fire=8DA99B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8DA99B&sideLabels=8DA99B&dates=FFFFFF)](https://git.io/streak-stats)
 </p>
 <!--
 **triabagus/triabagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
