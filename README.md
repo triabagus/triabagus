@@ -28,6 +28,9 @@ I'm a Web Developer and have been in this field for more than 5 years. Regarding
 <!--
 **triabagus/triabagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Github Stats : https://github.com/anuraghazra/github-readme-stats
+Github Stats Streak : https://streak-stats.demolab.com/demo/
+
 Get Emoji in : https://emojipedia.org/objects/
 Here are some ideas to get you started: 
 -->
