@@ -1,4 +1,4 @@
-[![An image of @triabagus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/triabagus)](https://holopin.io/@triabagus)
+[![An image of @triabagus's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@triabagus)](https://holopin.io/@triabagus)
 ## Hi, I'm Tria Bagus ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a Web Developer and have been in this field for more than 6 years. Regarding web developers, i have participated in several training and competitions in the same field. I also contribute with several organization and communities. 
 
