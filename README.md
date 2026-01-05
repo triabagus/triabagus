@@ -6,7 +6,7 @@ I'm a Web Developer and have been in this field for more than 6 years. Regarding
 - 🌱 I’m currently learning PHP, CSS, Javascript, Mysql, Wordpress
 - 🤔 I’m looking for help with web developer
 - 💬 Ask me about coding firts and enjoy 
-- 📫 How to reach me: triatop9@gmail.com
+- 📫 How to reach me: triabagus.work@gmail.com
 - ⚡ Fun fact: Coding, Football, Game 
 
 ## 🔧 Technologies & Tools
@@ -21,15 +21,13 @@ I'm a Web Developer and have been in this field for more than 6 years. Regarding
 ![](https://img.shields.io/badge/Tools-Git-informational?&style=flat&logo=git&logoColor=white&color=57675c)
 ## &#x1f4c8; GitHub Stats 
 <p align="center">
-	<img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=triabagus&theme=radical&show_icons=true&title_color=8da99b&text_color=ffffff&icon_color=8da99b&bg_color=000000" alt="triabagus" />
-	<img width="400" src="https://streak-stats.demolab.com?user=triabagus&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&border=DDDDDD&stroke=FFFFFF&ring=8DA99B&fire=8DA99B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8DA99B&sideLabels=FFFFFF&dates=FFFFF" alt="triabagus" />
+	[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/triabagus?cardType=level&theme=github-dark&fontFamily=Lexend&showIcons=false&preferLogin=false&Text=FFFFFF&Title=A8FF36&Ring=A8FF36)](https://git.io/awesome-stats-card)
 </p>
 
 <!--
 **triabagus/triabagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Github Stats : https://github.com/anuraghazra/github-readme-stats
-Github Stats Streak : https://streak-stats.demolab.com/demo/
+Github Stats : [https://github.com/anuraghazra/github-readme-stats](https://awesome-github-stats.azurewebsites.net/)
 
 Get Emoji in : https://emojipedia.org/objects/
 Here are some ideas to get you started: 
