@@ -20,9 +20,7 @@ I'm a Web Developer and have been in this field for more than 6 years. Regarding
 ![](https://img.shields.io/badge/Tools-Mysql-informational?&style=flat&logo=mysql&logoColor=white&color=57675c)
 ![](https://img.shields.io/badge/Tools-Git-informational?&style=flat&logo=git&logoColor=white&color=57675c)
 ## &#x1f4c8; GitHub Stats 
-<p align="center">
-	[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/triabagus?cardType=level&theme=github-dark&fontFamily=Lexend&showIcons=false&preferLogin=false&Text=FFFFFF&Title=A8FF36&Ring=A8FF36)](https://git.io/awesome-stats-card)
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/triabagus?cardType=level&theme=github-dark&fontFamily=Lexend&showIcons=false&preferLogin=false&Text=FFFFFF&Title=A8FF36&Ring=A8FF36)](https://git.io/awesome-stats-card)
 
 <!--
 **triabagus/triabagus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
